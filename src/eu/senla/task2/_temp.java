@@ -2,7 +2,9 @@
 
 public class _temp {
 
-  /*  int[] arrayOfColours = new int[7];
+  /*
+  Защита от дурня. Не тестил
+  int[] arrayOfColours = new int[7];
 
     int count = 0;
 
