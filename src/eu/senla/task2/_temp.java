@@ -3,7 +3,7 @@
 public class _temp {
 
   /*
-  Защита от дурня. Не тестил
+  Защита от дурня. Не тестил. Найти время и силы на оптимизацию
   int[] arrayOfColours = new int[7];
 
     int count = 0;
